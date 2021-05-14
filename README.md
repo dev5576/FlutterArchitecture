@@ -1,2 +1,2 @@
 # FlutterArchitecture
-https://www.youtube.com/watch?app=desktop&amp;v=dc3B_mMrZ-Q
+https://www.youtube.com/watch?app=desktop&v=dc3B_mMrZ-Q
