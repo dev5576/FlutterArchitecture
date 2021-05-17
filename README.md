@@ -19,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 #tutorial link
 https://www.youtube.com/watch?app=desktop&v=dc3B_mMrZ-Q
 
+#API <br/>
+http://numbersapi.com/#42 <br/>
+http://numbersapi.com/random/trivia?json
